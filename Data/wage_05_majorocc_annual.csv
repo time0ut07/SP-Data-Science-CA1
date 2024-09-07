@@ -1,0 +1,361 @@
+year,major_occ,ind1,occ_desc,mthly_gross_wage_50_pctile,mthly_basic_wage_50_pctile
+2022,professionals| managers & executives,manufacturing,industrial and production engineer,5426,4824
+2022,professionals| managers & executives,manufacturing,transport and vehicle engineer,5223,4500
+2022,professionals| managers & executives,manufacturing,manufacturing manager,7968,7532
+2022,professionals| managers & executives,food| beverages & tobacco,manufacturing manager,5000,4500
+2022,professionals| managers & executives,food| beverages & tobacco,sales manager,7315,3600
+2022,professionals| managers & executives,food| beverages & tobacco,managing director/chief executive officer,9111,8000
+2022,professionals| managers & executives,paper/ rubber/ plastic product & printing,manufacturing manager,4250,4150
+2022,professionals| managers & executives,paper/ rubber/ plastic product & printing,managing director/chief executive officer,6000,6000
+2022,professionals| managers & executives,paper/ rubber/ plastic product & printing,sales manager,5600,4500
+2022,professionals| managers & executives,petroleum| chemical & pharmaceutical products,manufacturing manager,9346,9116
+2022,professionals| managers & executives,petroleum| chemical & pharmaceutical products,industrial and production engineer,6700,6325
+2022,professionals| managers & executives,petroleum| chemical & pharmaceutical products,sales manager,11322,9796
+2022,professionals| managers & executives,fabricated metal products| machinery & equipment,industrial and production engineer,4995,4581
+2022,professionals| managers & executives,fabricated metal products| machinery & equipment,manufacturing manager,6381,5700
+2022,professionals| managers & executives,fabricated metal products| machinery & equipment,transport and vehicle engineer,5178,5170
+2022,professionals| managers & executives,electronic| computer & optical products,industrial and production engineer,5483,4788
+2022,professionals| managers & executives,electronic| computer & optical products,electronics engineer,6543,6437
+2022,professionals| managers & executives,electronic| computer & optical products,industrial relations officer,4995,4995
+2022,professionals| managers & executives,transport equipment,transport and vehicle engineer,5249,4357
+2022,professionals| managers & executives,transport equipment,technical/engineering services manager (excluding transport),8612,7000
+2022,professionals| managers & executives,transport equipment,industrial and production engineer,8867,8752
+2022,professionals| managers & executives,construction,construction manager,6300,6000
+2022,professionals| managers & executives,construction,managing director/chief executive officer,8000,7600
+2022,professionals| managers & executives,construction,quantity surveyor,5000,4000
+2022,professionals| managers & executives,services,financial services manager,11044,10850
+2022,professionals| managers & executives,services,sales manager,8392,7111
+2022,professionals| managers & executives,services,marketing manager,8526,8200
+2022,professionals| managers & executives,wholesale and retail trade,sales manager,7988,6649
+2022,professionals| managers & executives,wholesale and retail trade,retail manager,4603,3500
+2022,professionals| managers & executives,wholesale and retail trade,budgeting and financial accounting manager (including financial controller),9000,8358
+2022,professionals| managers & executives,wholesale trade,sales manager,8185,6998
+2022,professionals| managers & executives,wholesale trade,budgeting and financial accounting manager (including financial controller),9700,8814
+2022,professionals| managers & executives,wholesale trade,marketing manager,8323,7465
+2022,professionals| managers & executives,retail trade,retail manager,4380,3500
+2022,professionals| managers & executives,retail trade,managing director/chief executive officer,14000,14000
+2022,professionals| managers & executives,retail trade,sales manager,5544,3925
+2022,professionals| managers & executives,transportation and storage,transport/technical operations manager (except port/shipping operations),6244,4500
+2022,professionals| managers & executives,transportation and storage,port/shipping operations manager,8221,7530
+2022,professionals| managers & executives,transportation and storage,budgeting and financial accounting manager (including financial controller),7115,6630
+2022,professionals| managers & executives,land transport & supporting services,transport/technical operations manager (except port/shipping operations),4918,3684
+2022,professionals| managers & executives,land transport & supporting services,sales manager,6545,6300
+2022,professionals| managers & executives,land transport & supporting services,technical/engineering services manager (excluding transport),5213,4833
+2022,professionals| managers & executives,water transport & supporting services,port/shipping operations manager,8384,7975
+2022,professionals| managers & executives,water transport & supporting services,mechanical engineer (excluding transport and vehicle engineer),5990,5256
+2022,professionals| managers & executives,water transport & supporting services,network| communications and infrastructure manager,8897,8658
+2022,professionals| managers & executives,air transport & supporting services,transport/technical operations manager (except port/shipping operations),8307,4500
+2022,professionals| managers & executives,air transport & supporting services,transport and vehicle engineer,5844,3000
+2022,professionals| managers & executives,air transport & supporting services,human resource manager,6961,4000
+2022,professionals| managers & executives,accommodation and food services,restaurant manager,3421,2800
+2022,professionals| managers & executives,accommodation and food services,food and beverage operations manager,3753,3255
+2022,professionals| managers & executives,accommodation and food services,managing director/chief executive officer,5000,5000
+2022,professionals| managers & executives,accommodation,hotel operations/lodging services manager,4786,4550
+2022,professionals| managers & executives,accommodation,restaurant manager,4349,3791
+2022,professionals| managers & executives,accommodation,sales manager,5700,4300
+2022,professionals| managers & executives,food & beverage services,restaurant manager,3100,2700
+2022,professionals| managers & executives,food & beverage services,food and beverage operations manager,3753,3239
+2022,professionals| managers & executives,food & beverage services,managing director/chief executive officer,5000,5000
+2022,professionals| managers & executives,information and communications,systems analyst,6543,6117
+2022,professionals| managers & executives,information and communications,software| web and multimedia developer,6829,6000
+2022,professionals| managers & executives,information and communications,sales manager,12000,9400
+2022,professionals| managers & executives,telecommunications| broadcasting & publishing,sales manager,14896,11628
+2022,professionals| managers & executives,telecommunications| broadcasting & publishing,ict sales and services professional,12679,8283
+2022,professionals| managers & executives,telecommunications| broadcasting & publishing,systems analyst,13368,12148
+2022,professionals| managers & executives,it & other information services,systems analyst,6259,6000
+2022,professionals| managers & executives,it & other information services,software| web and multimedia developer,6784,6000
+2022,professionals| managers & executives,it & other information services,sales manager,10675,9400
+2022,professionals| managers & executives,financial and insurance services,financial services manager,11140,11020
+2022,professionals| managers & executives,financial and insurance services,financial and investment adviser,5280,5270
+2022,professionals| managers & executives,financial and insurance services,chief operating officer/general manager,9600,8500
+2022,professionals| managers & executives,financial services,financial services manager,11133,11020
+2022,professionals| managers & executives,financial services,financial and investment adviser,5400,5400
+2022,professionals| managers & executives,financial services,chief operating officer/general manager,9488,8500
+2022,professionals| managers & executives,insurance,insurance services manager,9583,9521
+2022,professionals| managers & executives,insurance,insurance underwriter,7314,7314
+2022,professionals| managers & executives,insurance,financial and investment adviser,3575,3500
+2022,professionals| managers & executives,real estate services,premises and facilities maintenance manager (excluding building security manager),6191,5000
+2022,professionals| managers & executives,real estate services,security manager,4680,4680
+2022,professionals| managers & executives,real estate services,accountant (excluding tax accountant),6080,4800
+2022,professionals| managers & executives,professional services,marketing manager,8608,8434
+2022,professionals| managers & executives,professional services,management and business consultant,8560,7958
+2022,professionals| managers & executives,professional services,software| web and multimedia developer,9194,8800
+2022,professionals| managers & executives,legal| accounting & management services,marketing manager,8761,8563
+2022,professionals| managers & executives,legal| accounting & management services,management and business consultant,8760,7966
+2022,professionals| managers & executives,legal| accounting & management services,audit manager,8415,8400
+2022,professionals| managers & executives,architectural & engineering services,mechanical engineer (excluding transport and vehicle engineer),5152,4673
+2022,professionals| managers & executives,architectural & engineering services,civil engineer,6630,6265
+2022,professionals| managers & executives,architectural & engineering services,technical/engineering services manager (excluding transport),10316,10000
+2022,professionals| managers & executives,administrative and support services,personnel/human resource officer,1685,1300
+2022,professionals| managers & executives,administrative and support services,managing director/chief executive officer,7050,6000
+2022,professionals| managers & executives,administrative and support services,budgeting and financial accounting manager (including financial controller),7414,6901
+2022,professionals| managers & executives,education| health and social services,university lecturer,9700,9010
+2022,professionals| managers & executives,education| health and social services,registered nurse and other nursing professional (e.g. clinical nurse| nurse educator| excluding enrolled nurse),5442,4677
+2022,professionals| managers & executives,education| health and social services,education and training institution manager,5300,5300
+2022,professionals| managers & executives,health & social services,registered nurse and other nursing professional (e.g. clinical nurse| nurse educator| excluding enrolled nurse),5445,4681
+2022,professionals| managers & executives,health & social services,technical/vocational/commercial education institute teacher and trainer,3368,3000
+2022,professionals| managers & executives,health & social services,social service professional,4293,3200
+2022,professionals| managers & executives,arts| entertainment| recreation and other services,managing director/chief executive officer,8224,8138
+2022,professionals| managers & executives,arts| entertainment| recreation and other services,strategic planning manager,17243,17243
+2022,professionals| managers & executives,arts| entertainment| recreation and other services,human resource manager,7100,7038
+2022,associate professionals & technicians,manufacturing,manufacturing engineering technician,4257,3265
+2022,associate professionals & technicians,manufacturing,mechanical engineering technicians (excluding transport and vehicle engineering technicians),4263,3230
+2022,associate professionals & technicians,manufacturing,commercial and marketing sales executive,4126,3850
+2022,associate professionals & technicians,food| beverages & tobacco,commercial and marketing sales executive,3760,3618
+2022,associate professionals & technicians,food| beverages & tobacco,manufacturing engineering technician,4000,3324
+2022,associate professionals & technicians,food| beverages & tobacco,operations officer (except transport operations),4511,3220
+2022,associate professionals & technicians,paper/ rubber/ plastic product & printing,commercial and marketing sales executive,3726,3330
+2022,associate professionals & technicians,petroleum| chemical & pharmaceutical products,chemical engineering technician,6455,3745
+2022,associate professionals & technicians,petroleum| chemical & pharmaceutical products,manufacturing engineering technician,4889,3853
+2022,associate professionals & technicians,petroleum| chemical & pharmaceutical products,mechanical engineering technicians (excluding transport and vehicle engineering technicians),7523,6114
+2022,associate professionals & technicians,fabricated metal products| machinery & equipment,mechanical engineering technicians (excluding transport and vehicle engineering technicians),3129,2650
+2022,associate professionals & technicians,fabricated metal products| machinery & equipment,manufacturing engineering technician,3502,2712
+2022,associate professionals & technicians,fabricated metal products| machinery & equipment,commercial and marketing sales executive,4100,3824
+2022,associate professionals & technicians,electronic| computer & optical products,manufacturing engineering technician,4531,3519
+2022,associate professionals & technicians,electronic| computer & optical products,assistant manufacturing engineer,4421,3043
+2022,associate professionals & technicians,electronic| computer & optical products,electronics engineering technician,5653,3400
+2022,associate professionals & technicians,transport equipment,transport and vehicle engineering technician,4188,2626
+2022,associate professionals & technicians,transport equipment,mechanical engineering technicians (excluding transport and vehicle engineering technicians),4491,3643
+2022,associate professionals & technicians,transport equipment,management executive,4358,4358
+2022,associate professionals & technicians,construction,civil engineering technician,4651,4430
+2022,associate professionals & technicians,construction,management executive,3000,2963
+2022,associate professionals & technicians,construction,operations officer (except transport operations),3400,3000
+2022,associate professionals & technicians,services,commercial and marketing sales executive,4437,4050
+2022,associate professionals & technicians,services,operations officer (except transport operations),3808,3300
+2022,associate professionals & technicians,services,management executive,3900,3624
+2022,associate professionals & technicians,wholesale and retail trade,commercial and marketing sales executive,3712,3500
+2022,associate professionals & technicians,wholesale and retail trade,operations officer (except transport operations),4214,4103
+2022,associate professionals & technicians,wholesale and retail trade,assistant accountant,4001,3868
+2022,associate professionals & technicians,wholesale trade,commercial and marketing sales executive,3975,3652
+2022,associate professionals & technicians,wholesale trade,operations officer (except transport operations),4721,4500
+2022,associate professionals & technicians,wholesale trade,management executive,3968,3908
+2022,associate professionals & technicians,retail trade,commercial and marketing sales executive,3131,2900
+2022,associate professionals & technicians,retail trade,operations officer (except transport operations),3621,3621
+2022,associate professionals & technicians,retail trade,assistant accountant,3500,3408
+2022,associate professionals & technicians,transportation and storage,port/shipping operations supervisor (including post-fixture and planner),3688,2871
+2022,associate professionals & technicians,transportation and storage,operations officer (except transport operations),3325,2868
+2022,associate professionals & technicians,transportation and storage,mechanical engineering technicians (excluding transport and vehicle engineering technicians),3550,2710
+2022,associate professionals & technicians,land transport & supporting services,operations officer (except transport operations),3430,2891
+2022,associate professionals & technicians,land transport & supporting services,road transport supervisor,3382,2788
+2022,associate professionals & technicians,land transport & supporting services,transport and vehicle engineering technician,3161,2497
+2022,associate professionals & technicians,water transport & supporting services,port/shipping operations supervisor (including post-fixture and planner),3673,2859
+2022,associate professionals & technicians,water transport & supporting services,mechanical engineering technicians (excluding transport and vehicle engineering technicians),3550,2619
+2022,associate professionals & technicians,water transport & supporting services,clearing and forwarding agent,7166,4718
+2022,associate professionals & technicians,air transport & supporting services,commercial and marketing sales executive,3879,3843
+2022,associate professionals & technicians,air transport & supporting services,management executive,4337,4337
+2022,associate professionals & technicians,air transport & supporting services,operations officer (except transport operations),3845,3640
+2022,associate professionals & technicians,accommodation and food services,chef,3799,3500
+2022,associate professionals & technicians,accommodation and food services,pastry chef,3026,2875
+2022,associate professionals & technicians,accommodation and food services,commercial and marketing sales executive,1600,1500
+2022,associate professionals & technicians,accommodation,chef,4186,3500
+2022,associate professionals & technicians,accommodation,pastry chef,4959,4959
+2022,associate professionals & technicians,food & beverage services,chef,3700,3500
+2022,associate professionals & technicians,food & beverage services,commercial and marketing sales executive,1500,1500
+2022,associate professionals & technicians,food & beverage services,pastry chef,1650,1600
+2022,associate professionals & technicians,information and communications,commercial and marketing sales executive,5921,4767
+2022,associate professionals & technicians,information and communications,it support technician (including it user helpdesk technician),4306,4041
+2022,associate professionals & technicians,information and communications,operations officer (except transport operations),5541,5115
+2022,associate professionals & technicians,telecommunications| broadcasting & publishing,commercial and marketing sales executive,5958,4810
+2022,associate professionals & technicians,telecommunications| broadcasting & publishing,broadcasting technician and audio-visual operator,4955,4828
+2022,associate professionals & technicians,telecommunications| broadcasting & publishing,media and broadcasting operations technician,3594,3257
+2022,associate professionals & technicians,it & other information services,it support technician (including it user helpdesk technician),4241,3918
+2022,associate professionals & technicians,it & other information services,commercial and marketing sales executive,5617,4767
+2022,associate professionals & technicians,it & other information services,operations officer (except transport operations),6340,5887
+2022,associate professionals & technicians,financial and insurance services,commercial and marketing sales executive,6411,6406
+2022,associate professionals & technicians,financial and insurance services,after sales adviser/client account service executive,6496,6477
+2022,associate professionals & technicians,financial and insurance services,credit and loans officer,4355,4350
+2022,associate professionals & technicians,financial services,commercial and marketing sales executive,6432,6423
+2022,associate professionals & technicians,financial services,after sales adviser/client account service executive,6504,6496
+2022,associate professionals & technicians,financial services,credit and loans officer,4353,4350
+2022,associate professionals & technicians,insurance,insurance representative and related associate professional,5002,4296
+2022,associate professionals & technicians,insurance,valuer and loss assessor,4697,4548
+2022,associate professionals & technicians,insurance,insurance sales agent/broker (including independent financial planner),5050,4062
+2022,associate professionals & technicians,real estate services,premises and facilities maintenance officer,3850,3000
+2022,associate professionals & technicians,real estate services,lift technician,3000,3000
+2022,associate professionals & technicians,real estate services,operations officer (except transport operations),3750,3400
+2022,associate professionals & technicians,professional services,management executive,5224,5037
+2022,associate professionals & technicians,professional services,commercial and marketing sales executive,5778,5560
+2022,associate professionals & technicians,professional services,tax associate professional,4502,4502
+2022,associate professionals & technicians,legal| accounting & management services,legal associate professional (e.g. paralegal),8218,6400
+2022,associate professionals & technicians,legal| accounting & management services,tax associate professional,4440,4440
+2022,associate professionals & technicians,legal| accounting & management services,management executive,6000,5874
+2022,associate professionals & technicians,architectural & engineering services,civil engineering technician,5500,5477
+2022,associate professionals & technicians,architectural & engineering services,draughtsman,4460,4104
+2022,associate professionals & technicians,architectural & engineering services,management executive,3800,3800
+2022,associate professionals & technicians,administrative and support services,management executive,2300,2300
+2022,associate professionals & technicians,administrative and support services,operations officer (except transport operations),3200,2500
+2022,associate professionals & technicians,administrative and support services,assistant electronics engineer,2973,2628
+2022,associate professionals & technicians,education| health and social services,pre-primary education teacher,3175,2520
+2022,associate professionals & technicians,education| health and social services,management executive,3650,3600
+2022,associate professionals & technicians,education| health and social services,medical and pathology laboratory technician,4655,4546
+2022,associate professionals & technicians,health & social services,pre-primary education teacher,3229,2700
+2022,associate professionals & technicians,health & social services,enrolled/assistant nurse (excluding registered nurse),3732,3535
+2022,associate professionals & technicians,health & social services,management executive,3500,3429
+2022,associate professionals & technicians,arts| entertainment| recreation and other services,operations officer (except transport operations),3550,2650
+2022,associate professionals & technicians,arts| entertainment| recreation and other services,commercial and marketing sales executive,3613,3535
+2022,associate professionals & technicians,arts| entertainment| recreation and other services,premises and facilities maintenance officer,3810,3729
+2022,clerical| service & sales workers,manufacturing,general office clerk,2569,2400
+2022,clerical| service & sales workers,manufacturing,accounting and bookkeeping clerk,3015,2900
+2022,clerical| service & sales workers,manufacturing,stock clerk,2800,2401
+2022,clerical| service & sales workers,food| beverages & tobacco,shop sales assistant,1758,1500
+2022,clerical| service & sales workers,food| beverages & tobacco,accounting and bookkeeping clerk,3000,2900
+2022,clerical| service & sales workers,food| beverages & tobacco,general office clerk,2550,2530
+2022,clerical| service & sales workers,paper/ rubber/ plastic product & printing,accounting and bookkeeping clerk,3017,2804
+2022,clerical| service & sales workers,paper/ rubber/ plastic product & printing,receptionist| customer service and information clerk,3095,2685
+2022,clerical| service & sales workers,petroleum| chemical & pharmaceutical products,general office clerk,4924,4694
+2022,clerical| service & sales workers,petroleum| chemical & pharmaceutical products,receptionist| customer service and information clerk,4330,4017
+2022,clerical| service & sales workers,petroleum| chemical & pharmaceutical products,production clerk,4935,4430
+2022,clerical| service & sales workers,fabricated metal products| machinery & equipment,general office clerk,2394,2157
+2022,clerical| service & sales workers,fabricated metal products| machinery & equipment,accounting and bookkeeping clerk,2916,2795
+2022,clerical| service & sales workers,fabricated metal products| machinery & equipment,receptionist| customer service and information clerk,3515,3343
+2022,clerical| service & sales workers,electronic| computer & optical products,general office clerk,4048,3000
+2022,clerical| service & sales workers,electronic| computer & optical products,office supervisor,2934,2934
+2022,clerical| service & sales workers,electronic| computer & optical products,stock clerk,3264,3194
+2022,clerical| service & sales workers,transport equipment,general office clerk,2080,1900
+2022,clerical| service & sales workers,transport equipment,accounting and bookkeeping clerk,2025,2025
+2022,clerical| service & sales workers,transport equipment,stock clerk,3083,1955
+2022,clerical| service & sales workers,construction,general office clerk,2000,2000
+2022,clerical| service & sales workers,construction,accounting and bookkeeping clerk,2900,2700
+2022,clerical| service & sales workers,construction,secretary,3780,3390
+2022,clerical| service & sales workers,services,general office clerk,3084,2915
+2022,clerical| service & sales workers,services,shop sales assistant,2055,2000
+2022,clerical| service & sales workers,services,receptionist| customer service and information clerk,2946,2600
+2022,clerical| service & sales workers,wholesale and retail trade,shop sales assistant,2062,2000
+2022,clerical| service & sales workers,wholesale and retail trade,receptionist| customer service and information clerk,3157,2902
+2022,clerical| service & sales workers,wholesale and retail trade,general office clerk,2593,2400
+2022,clerical| service & sales workers,wholesale trade,accounting and bookkeeping clerk,3377,3230
+2022,clerical| service & sales workers,wholesale trade,receptionist| customer service and information clerk,3623,3358
+2022,clerical| service & sales workers,wholesale trade,general office clerk,2950,2798
+2022,clerical| service & sales workers,retail trade,shop sales assistant,2061,2000
+2022,clerical| service & sales workers,retail trade,cashier (general),2289,2100
+2022,clerical| service & sales workers,retail trade,sales supervisor,2884,2500
+2022,clerical| service & sales workers,transportation and storage,receptionist| customer service and information clerk,2941,2700
+2022,clerical| service & sales workers,transportation and storage,mail carrier and sorting worker,1864,1852
+2022,clerical| service & sales workers,transportation and storage,general office clerk,3000,2740
+2022,clerical| service & sales workers,land transport & supporting services,general office clerk,2600,2476
+2022,clerical| service & sales workers,land transport & supporting services,receptionist| customer service and information clerk,2613,2224
+2022,clerical| service & sales workers,land transport & supporting services,driving instructor/tester,3877,2836
+2022,clerical| service & sales workers,water transport & supporting services,general office clerk,3612,3514
+2022,clerical| service & sales workers,water transport & supporting services,transport clerk,3390,3095
+2022,clerical| service & sales workers,water transport & supporting services,receptionist| customer service and information clerk,3775,3165
+2022,clerical| service & sales workers,air transport & supporting services,receptionist| customer service and information clerk,3124,2882
+2022,clerical| service & sales workers,air transport & supporting services,general office clerk,3109,3010
+2022,clerical| service & sales workers,air transport & supporting services,office supervisor,3551,3173
+2022,clerical| service & sales workers,accommodation and food services,waiter,1845,1600
+2022,clerical| service & sales workers,accommodation and food services,receptionist| customer service and information clerk,2793,2250
+2022,clerical| service & sales workers,accommodation and food services,cook (e.g. commis cook 2/3),2500,1977
+2022,clerical| service & sales workers,accommodation,receptionist| customer service and information clerk,2903,2250
+2022,clerical| service & sales workers,accommodation,cook (e.g. commis cook 2/3),3294,2011
+2022,clerical| service & sales workers,accommodation,accounting and bookkeeping clerk,3052,2800
+2022,clerical| service & sales workers,food & beverage services,waiter,1850,1600
+2022,clerical| service & sales workers,food & beverage services,shop sales assistant,1950,1700
+2022,clerical| service & sales workers,food & beverage services,cook (e.g. commis cook 2/3),2152,1900
+2022,clerical| service & sales workers,information and communications,general office clerk,3827,3693
+2022,clerical| service & sales workers,information and communications,receptionist| customer service and information clerk,4142,4072
+2022,clerical| service & sales workers,information and communications,sales demonstrator and door-to-door salesperson,2050,2050
+2022,clerical| service & sales workers,telecommunications| broadcasting & publishing,general office clerk,4065,4065
+2022,clerical| service & sales workers,it & other information services,general office clerk,3814,3691
+2022,clerical| service & sales workers,it & other information services,receptionist| customer service and information clerk,4217,4217
+2022,clerical| service & sales workers,it & other information services,sales demonstrator and door-to-door salesperson,2050,2050
+2022,clerical| service & sales workers,financial and insurance services,general office clerk,4385,4240
+2022,clerical| service & sales workers,financial and insurance services,finance and insurance clerk,4716,4604
+2022,clerical| service & sales workers,financial and insurance services,receptionist| customer service and information clerk,4030,3752
+2022,clerical| service & sales workers,financial services,general office clerk,4934,4859
+2022,clerical| service & sales workers,financial services,receptionist| customer service and information clerk,4030,3767
+2022,clerical| service & sales workers,financial services,finance and insurance clerk,5011,4979
+2022,clerical| service & sales workers,insurance,finance and insurance clerk,4203,3950
+2022,clerical| service & sales workers,insurance,general office clerk,3680,3567
+2022,clerical| service & sales workers,insurance,receptionist| customer service and information clerk,3849,3577
+2022,clerical| service & sales workers,real estate services,general office clerk,2100,1956
+2022,clerical| service & sales workers,real estate services,receptionist| customer service and information clerk,2911,2682
+2022,clerical| service & sales workers,real estate services,accounting and bookkeeping clerk,2612,2541
+2022,clerical| service & sales workers,professional services,secretary,4565,3860
+2022,clerical| service & sales workers,professional services,accounting and bookkeeping clerk,3335,3260
+2022,clerical| service & sales workers,professional services,general office clerk,3531,3284
+2022,clerical| service & sales workers,legal| accounting & management services,secretary,4571,3800
+2022,clerical| service & sales workers,legal| accounting & management services,accounting and bookkeeping clerk,3323,3260
+2022,clerical| service & sales workers,legal| accounting & management services,general office clerk,3858,3533
+2022,clerical| service & sales workers,architectural & engineering services,general office clerk,3200,3001
+2022,clerical| service & sales workers,architectural & engineering services,office supervisor,4114,4114
+2022,clerical| service & sales workers,architectural & engineering services,accounting and bookkeeping clerk,3308,3150
+2022,clerical| service & sales workers,administrative and support services,private security officer,2542,1838
+2022,clerical| service & sales workers,administrative and support services,security supervisor,2778,2198
+2022,clerical| service & sales workers,administrative and support services,general office clerk,2095,1998
+2022,clerical| service & sales workers,education| health and social services,general office clerk,3183,3100
+2022,clerical| service & sales workers,education| health and social services,receptionist| customer service and information clerk,2813,2620
+2022,clerical| service & sales workers,education| health and social services,child care and related worker,2700,2700
+2022,clerical| service & sales workers,health & social services,receptionist| customer service and information clerk,2798,2620
+2022,clerical| service & sales workers,health & social services,general office clerk,2890,2714
+2022,clerical| service & sales workers,health & social services,child care and related worker,2700,2700
+2022,clerical| service & sales workers,arts| entertainment| recreation and other services,receptionist| customer service and information clerk,2691,2521
+2022,clerical| service & sales workers,arts| entertainment| recreation and other services,hair stylist/hairdresser,1500,1400
+2022,clerical| service & sales workers,arts| entertainment| recreation and other services,private security officer,3029,3029
+2022,production & transport operators| cleaners & labourers,manufacturing,electrical and electronic equipment assembler,2196,1337
+2022,production & transport operators| cleaners & labourers,manufacturing,machine-tool setter-operator,2472,2200
+2022,production & transport operators| cleaners & labourers,manufacturing,supervisor/general foreman (metal| machinery and related trades),6031,4304
+2022,production & transport operators| cleaners & labourers,food| beverages & tobacco,hand packer,1800,1800
+2022,production & transport operators| cleaners & labourers,food| beverages & tobacco,bakers| pastry and confectionery maker,1900,1400
+2022,production & transport operators| cleaners & labourers,food| beverages & tobacco,van driver,2200,1850
+2022,production & transport operators| cleaners & labourers,paper/ rubber/ plastic product & printing,printing| binding and related machine operator,2465,1944
+2022,production & transport operators| cleaners & labourers,paper/ rubber/ plastic product & printing,plastic products machine operator,1715,1323
+2022,production & transport operators| cleaners & labourers,paper/ rubber/ plastic product & printing,hand packer,1456,1385
+2022,production & transport operators| cleaners & labourers,petroleum| chemical & pharmaceutical products,supervisor/general foreman (metal| machinery and related trades),9731,8880
+2022,production & transport operators| cleaners & labourers,petroleum| chemical & pharmaceutical products,hand packer,1630,1415
+2022,production & transport operators| cleaners & labourers,fabricated metal products| machinery & equipment,machine-tool setter-operator,3217,2517
+2022,production & transport operators| cleaners & labourers,fabricated metal products| machinery & equipment,supervisor/general foreman (metal| machinery and related trades),4216,3263
+2022,production & transport operators| cleaners & labourers,fabricated metal products| machinery & equipment,supervisor/general foreman (building and related trades),3700,3000
+2022,production & transport operators| cleaners & labourers,electronic| computer & optical products,electrical and electronic equipment assembler,2205,1300
+2022,production & transport operators| cleaners & labourers,electronic| computer & optical products,machine-tool setter-operator,1789,1789
+2022,production & transport operators| cleaners & labourers,electronic| computer & optical products,supervisor/general foreman (precision| handicraft| printing and related trades),4181,3911
+2022,production & transport operators| cleaners & labourers,transport equipment,lorry driver,1500,1452
+2022,production & transport operators| cleaners & labourers,transport equipment,office| commercial and industrial establishments indoor cleaner,1400,1400
+2022,production & transport operators| cleaners & labourers,transport equipment,supervisor/general foreman (building and related trades),1623,1593
+2022,production & transport operators| cleaners & labourers,construction,supervisor/general foreman (building and related trades),3530,3000
+2022,production & transport operators| cleaners & labourers,construction,lorry driver,2570,2000
+2022,production & transport operators| cleaners & labourers,construction,office| commercial and industrial establishments indoor cleaner,1450,1405
+2022,production & transport operators| cleaners & labourers,services,office| commercial and industrial establishments indoor cleaner,1520,1400
+2022,production & transport operators| cleaners & labourers,services,bus driver,4367,2477
+2022,production & transport operators| cleaners & labourers,services,crane operator (on-site),3046,1939
+2022,production & transport operators| cleaners & labourers,wholesale and retail trade,van driver,2400,2216
+2022,production & transport operators| cleaners & labourers,wholesale and retail trade,hand packer,1730,1494
+2022,production & transport operators| cleaners & labourers,wholesale and retail trade,lorry driver,2566,2320
+2022,production & transport operators| cleaners & labourers,wholesale trade,van driver,2476,2297
+2022,production & transport operators| cleaners & labourers,wholesale trade,lorry driver,2566,2400
+2022,production & transport operators| cleaners & labourers,wholesale trade,hand packer,1750,1494
+2022,production & transport operators| cleaners & labourers,retail trade,hand packer,1650,1475
+2022,production & transport operators| cleaners & labourers,retail trade,van driver,2300,2087
+2022,production & transport operators| cleaners & labourers,retail trade,fork lift truck operator,2175,1979
+2022,production & transport operators| cleaners & labourers,transportation and storage,bus driver,4386,2491
+2022,production & transport operators| cleaners & labourers,transportation and storage,crane operator (on-site),3046,1939
+2022,production & transport operators| cleaners & labourers,transportation and storage,trailer-truck driver (including prime mover driver),2430,1673
+2022,production & transport operators| cleaners & labourers,land transport & supporting services,bus driver,4386,2491
+2022,production & transport operators| cleaners & labourers,land transport & supporting services,trailer-truck driver (including prime mover driver),3500,3500
+2022,production & transport operators| cleaners & labourers,land transport & supporting services,lorry driver,2684,2171
+2022,production & transport operators| cleaners & labourers,water transport & supporting services,crane operator (on-site),3046,1939
+2022,production & transport operators| cleaners & labourers,water transport & supporting services,trailer-truck driver (including prime mover driver),2375,1509
+2022,production & transport operators| cleaners & labourers,water transport & supporting services,ships' deck crew and related worker,2700,2456
+2022,production & transport operators| cleaners & labourers,accommodation and food services,kitchen assistant,1850,1500
+2022,production & transport operators| cleaners & labourers,accommodation and food services,food/drink stall assistant,1500,1400
+2022,production & transport operators| cleaners & labourers,accommodation and food services,dishwasher,1600,1586
+2022,production & transport operators| cleaners & labourers,accommodation,cleaner and helper in hotels and related establishments,2295,1650
+2022,production & transport operators| cleaners & labourers,food & beverage services,kitchen assistant,1850,1500
+2022,production & transport operators| cleaners & labourers,food & beverage services,food/drink stall assistant,1500,1400
+2022,production & transport operators| cleaners & labourers,food & beverage services,dishwasher,1600,1600
+2022,production & transport operators| cleaners & labourers,real estate services,building maintenance worker,1910,1845
+2022,production & transport operators| cleaners & labourers,real estate services,cleaner and helper in hotels and related establishments,1586,1403
+2022,production & transport operators| cleaners & labourers,real estate services,office| commercial and industrial establishments indoor cleaner,1400,1350
+2022,production & transport operators| cleaners & labourers,professional services,supervisor/general foreman (building and related trades),4770,4590
+2022,production & transport operators| cleaners & labourers,professional services,office| commercial and industrial establishments indoor cleaner,1696,1648
+2022,production & transport operators| cleaners & labourers,architectural & engineering services,supervisor/general foreman (building and related trades),5000,4600
+2022,production & transport operators| cleaners & labourers,administrative and support services,office| commercial and industrial establishments indoor cleaner,1506,1400
+2022,production & transport operators| cleaners & labourers,administrative and support services,cleaning supervisor,2323,1968
+2022,production & transport operators| cleaners & labourers,administrative and support services,fumigator and other pest and weed controller,1971,1850
+2022,production & transport operators| cleaners & labourers,education| health and social services,office| commercial and industrial establishments indoor cleaner,1820,1800
+2022,production & transport operators| cleaners & labourers,education| health and social services,attendant,2155,2117
+2022,production & transport operators| cleaners & labourers,education| health and social services,ambulance driver,2702,1700
+2022,production & transport operators| cleaners & labourers,health & social services,office| commercial and industrial establishments indoor cleaner,1882,1820
+2022,production & transport operators| cleaners & labourers,health & social services,attendant,2171,2171
+2022,production & transport operators| cleaners & labourers,health & social services,ambulance driver,2702,1700
+2022,production & transport operators| cleaners & labourers,arts| entertainment| recreation and other services,office| commercial and industrial establishments indoor cleaner,1927,1600
+2022,production & transport operators| cleaners & labourers,arts| entertainment| recreation and other services,chauffeur,2519,2493
+2022,production & transport operators| cleaners & labourers,arts| entertainment| recreation and other services,attendant,2179,2086
